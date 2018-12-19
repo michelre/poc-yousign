@@ -1,0 +1,18 @@
+{
+  "name": "remimichel/yousign-poc",
+  "authors": [
+    {
+      "name": "remimichel",
+      "email": "remi.michel38@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.3",
+    "klein/klein": "^2.1"
+  }
+}
